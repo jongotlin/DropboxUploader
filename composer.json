@@ -1,5 +1,6 @@
 {
     "name": "jakajancar/dropboxuploader",
+    "description": "Upload files to Dropbox",
     "keywords": ["dropbox"],
     "homepage": "http://github.com/jakajancar/DropboxUploader",
     "type": "library",
