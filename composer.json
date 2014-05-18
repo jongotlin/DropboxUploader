@@ -1,0 +1,10 @@
+{
+    "name": "jakajancar/dropboxuploader",
+    "keywords": ["dropbox"],
+    "homepage": "http://github.com/jakajancar/DropboxUploader",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {"JakaJancar\\": ""}
+    }
+}
